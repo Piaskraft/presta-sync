@@ -1,6 +1,3 @@
-super — poniżej masz gotową treść do **README.md** z opisem folderów, plików i uruchamiania. Skopiuj całość do `README.md` w katalogu projektu.
-
----
 
 # Presta Sync — bezpieczny diff cen i stanów
 
