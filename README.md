@@ -80,7 +80,7 @@ MARGIN_RATE=0.34
 PRICE_TOL=0.01
 
 # Feed (opcjonalnie; domyślnie Google)
-MJW_FEED_URL=https://mjwtools.com/xml/google_products.xml
+MJW_FEED_URL=https:
 ```
 
 > VAT liczy Presta – **pracujemy na cenach netto (EUR)**.
